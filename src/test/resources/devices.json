@@ -1,0 +1,36 @@
+{
+  "thermostats": {
+    "BvQZ7MuHzZm-T9vvxGCxVRbW9Kk1XSdk": {
+      "humidity": 55,
+      "locale": "en-US",
+      "temperature_scale": "C",
+      "is_using_emergency_heat": false,
+      "has_fan": true,
+      "software_version": "4.1",
+      "has_leaf": true,
+      "where_id": "fB2wAIW57DNI16aaAZjLp75z6RvOnj5NK2EQ9teKn4MJAUu_nHowrA",
+      "device_id": "BvQZ7MuHzZm-T9vvxGCxVRbW9Kk1XSdk",
+      "name": "Living Room (TERMO1)",
+      "can_heat": true,
+      "can_cool": true,
+      "hvac_mode": "heat",
+      "target_temperature_c": 20.0,
+      "target_temperature_f": 68,
+      "target_temperature_high_c": 26.0,
+      "target_temperature_high_f": 79,
+      "target_temperature_low_c": 19.0,
+      "target_temperature_low_f": 66,
+      "ambient_temperature_c": 23.5,
+      "ambient_temperature_f": 74,
+      "away_temperature_high_c": 24.0,
+      "away_temperature_high_f": 76,
+      "away_temperature_low_c": 12.5,
+      "away_temperature_low_f": 55,
+      "structure_id": "fy-0cEuZ3JdGh40i6ixp-x-w0zLBUzaQu8oZQBeCL5vTSUlGoRp_IA",
+      "fan_timer_active": false,
+      "name_long": "Living Room Thermostat (TERMO1)",
+      "is_online": true,
+      "hvac_state": "off"
+    }
+  }
+}
