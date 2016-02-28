@@ -4,7 +4,7 @@ The program integrates nest platform with slack.
 It gives an opportunity to see thermostats' temperature value in slack,
 set up a thershold and get notification if threshold is crossed.
 
-[[https://github.com/anev/NestSlack/blob/master/NestSlackBot.png|alt=NestSlackBot]]
+![Nest Slack Bot](NestSlackBot.png?raw=true)
 
 ## Building
 
